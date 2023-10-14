@@ -1,0 +1,79 @@
+*{
+  margin: 0
+}
+.BigText{
+  font-size: 900%;
+  font-weight: 400%;
+  color: white;
+  margin-left: 60%;
+}
+.App-header {
+  background-image: url(C:\Users\Kevin\my-app\public\Images\waterpic.jpg);
+  background-size: cover;
+  background-position: 50% 70%;
+  height: 100vh;
+  color: white;
+  margin:0;
+}
+.App-header h1 {
+  margin-left: 200px;
+  font-weight: 200%;
+  font-size: 100px;
+  transform: translateY(100px)
+}
+.bouton {
+  margin: 0;
+  margin-left: 200px;
+  font-weight: 200%;
+  font-size: 100px;
+  margin-top: 70px;
+  display:block;
+  display:inline-block;
+ 
+}
+.LetterHeader{
+  background-image: url(C:\Users\Kevin\my-app\public\Images\volley.jpg);
+  background-size: cover;
+  min-height: 70vh;
+  background-position: 20% 35%;
+}
+.row{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.WhoKevinHe1{
+  flex-basis: 48%;
+  background-image: url(C:\Users\Kevin\my-app\public\Images\piano.jpg);
+  background-size: cover;
+  border-radius: 15px;
+}
+.WhoKevinHe2{
+  flex-basis: 50%;
+}
+.container{
+  padding: 15px 5%;
+}
+/*-------------------------------------------------------- Introduction Letter  ----------------------------------*/
+.page2header{
+  font-size: 80px;
+  font-weight: 200;
+  color: white;
+  position: relative;
+  left: 57%;
+  top: 9%
+}
+.intro{
+  background-color: aliceblue;
+  padding: 20px 10%;
+  margin: 2%;
+}
+.videocv{
+  background-image: url(C:\Users\Kevin\my-app\public\Images\waterpic.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  background-position: center;
+  justify-content: center;
+}
+/*-------------------------------------------------------- CV  ----------------------------------*/
