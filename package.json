@@ -1,7 +1,6 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": ".",
   "private": true,
   "dependencies": {
     "@coreui/coreui": "^5.0.0-alpha.2",
