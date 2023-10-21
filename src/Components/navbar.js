@@ -7,7 +7,7 @@ function Navigation() {
     <>
       <Navbar bg="dark" data-bs-theme="dark">
         <Container>
-          <Navbar.Brand href="/PortfolioCV/">Kevin He</Navbar.Brand>
+          <Navbar.Brand href="/">Kevin He</Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link href="About">About</Nav.Link>
             <Nav.Link href="IntroductionLetter">Introduction Letter</Nav.Link>
