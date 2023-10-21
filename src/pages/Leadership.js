@@ -21,7 +21,7 @@ const Miscellaneous = () => {
                     </div>
                     <div class="col">
                         <div class="card h-100 bg-transparent text-white border-white">
-                        <img src="https://lh3.googleusercontent.com/pw/ADCreHc2mEqiizZEgBDDuTKrYHKLT9N8eEXA2Ev7_EYNsGio4GZhyFxehWe7kYH8dUJh5MgxxgvuzWJz-sA3fZ5OP1-4XtaEp9HH-jaD-QU8rWfxanNdSHUCEP1-8gUowbRN1Qk0IM0I0aXk1ZMBgTULfXvpxE2w3e_iSfalWsCcBOXFh8Vd9ofz_UkYCiIjMxHDS1MJCKwCYibcN5GCOpZRmZzdYz2OomK6iaS31O-lChWyArLmJHcSwd1L5aELiWVXPGO2NlQUf10Sjixg5BXGiMOVwjsk3igo-ZTEhpOOqVbZ0_n5Ytk4RaTt0VFkZQPX5vvkiLxu2GALAZ9o_Fc_SRoFN05EQ7lwbk02Hs2uTGKH0AP5qGfbBU_ADxj3Mq0mgHY5qLtEfrTn7ZwJvjvfJ2SZnkmJ4WaePjCx4sp75NYMdu3-rffJ8IG3KRpfxgWXTXplC3AZeGlA_UfZwh7R4RH1AMp_QwrL2JQh9f0dHxaPes8BXKJOReXXsFwqFT_vrA21l_-IBWVGO_tZPM5YjUF382gphnZY7kU2gLiyI7V8Qaq2eYKngGq8AqjV12P1EOed1JzoHnW76hhLEddaxemp76Lb7zPg_qXidRAwvkH1kz08vjQXMH0Uqw47Ja3xd7nQrRTJ8ZjVEKv5rnD-Cgg-c03wSsMXb15NuCPNjBe8h87mm0EZ7Fa_ma41j1mxAKGFb3dVGeEJOQGIch8sQKzhyOPoJMopHhV_82smy5HuGG_ahfxdVhWsp_hjYX-VjEJslllbc-FXQ8fbRF5PlEpaGVuL0Tzs3mYxGkMGJ6zf2SJXqcgRWotrePG_AseZ7fbwfuvWFDHVyT-ttKvSlYO8cCsttUB2X-_WLeS03_9zAU85glQt_QItgO-OtV3B3hNShHDYn3JJWnJ4GyXY2zgMPag=w1284-h963-s-no?authuser=0" class="card-img-top"/>
+                        <img src="https://lh3.googleusercontent.com/pw/ADCreHeYfQ3ptRLKaTagZzjE9Y2jcgnRhGoQPvVffEQiXM_8BMOHDq8Vsko3fCMCEa4jQY5ad3DbhVtx4uUbbXvFRaizpkqtbddgqtva5tZslTHmS7Cmg1nMslrhp-06IVKZ_WIF1oJzx9SqpiTLre0ILFeH1A=w1190-h893-s-no?authuser=0" class="card-img-top"/>
                         <div class="card-body">
                             <h5 class="card-title">Club/Committee Leader</h5>
                             <p class="card-text">
@@ -32,7 +32,7 @@ const Miscellaneous = () => {
                     </div>
                     <div class="col">
                         <div class="card h-100 bg-transparent text-white border-white">
-                        <img src="https://lh3.googleusercontent.com/pw/ADCreHe1hV8DQ97_C2WlA028kqnwQs5CTVUFr_n3HF19BG9LK5CxZ_g-r7H7egi3SRACa-63AjlunSbvT7bYppmQ4zNVVRAuhDP0lVxy0pjsZhp6GlwIsQc08Ldrmz28Zhra0X6y62dsi0FkEEkqzuSmQ31x2uafzgp0F-WTbW4AGjVsgyyFxF6QZZ23cd6ZRxvRfDeZQ2XsRVKjM2efmhhMedGYxMhziRepOmQDA50_ICJmpxoFNsZ2TCSrCzwAaeuaOL2zs11_lCYorynbYc4Tmyclx_RmHo3hhTRVyzGSOssxi5jfDAoZUMKUdG4ORTi7X0sqkAq8uPLtGzLVb_5LT3xyOXqndgoOzq_WmOERrU_UERAQxICB-jyyIS73XYcAJ3RrLBhvzpIbfu_JOd9ZgJLuOsjKjSv2acx1NodN-1sRBura1Mipq04S0_5Y-kR2b8hWSD9yBWE6YoCVA5kgFpG3E_RQHAICdLpfk3hUccftB4iwRLOdIVle2x9_oOReEPooWMs77-6SqqZYkd2feXuDtjFxBB60AuFIct8rzHdLaUtJDLEdtshT_fqw7jmhe_g0e5g20eaz8gIcRvoC2-W0eA2cj4GZRJDBl3m2GivdS50cl_lvtzxIw9lq8vTzSXFCFjR9nhoZsBSlHdxoLle-pX6QyXITwk_kbPhg619RdoFATYCYHFri_QDAB9HAouK80FDCZ2iLQDmI--G5ooX1dfPe4omRW144pH0vZZIeGIQQ26R-kWYt2Xwc4XYb0SLSYU1zqCUUJ1ZeJYB5kq0j2u8hHiWGEF3IpmceC8EcZxl9xKvPQEH2ey8UrdkG2cNc0dM40RpomxR6XU3F69R4nhuEkSmgUAIcD6SExzC-9G8fT-jkVMZkSkg58uakaUFnWONK6WL1ibpPjme4U84sWk4=w1117-h853-s-no?authuser=0" class="card-img-top"/>
+                        <img src="https://lh3.googleusercontent.com/pw/ADCreHfbpCtAxRUTOFnZ4m1Nem60-NChczBww6lv6lDKOVLLszjycQBCirtpBpUJWopzJHmc0L1KKr4dK0yWF0aJiZQ5Axq1PDqELikjew6xdwXb0WqMKbTWxSSc4PwY-uG92wT3o_bMTTcWt0gOXsRIGZogGw=w1117-h853-s-no?authuser=0" class="card-img-top"/>
                         <div class="card-body">
                             <h5 class="card-title">Student Government</h5>
                             <p class="card-text">In the academic year 2022-2023, as Vice-President of External Affairs at John Abbott College, I was an executive member of CASAQ, an association comprising representatives from the five anglophone CEGEPs in Montreal (John Abbott College, Marianopolis, Dawson, Vanier, and Champlain Regional College). The role gave me the opportunity to represent not only the voice of my school, but the voice of all students attending anglophone institutions in Montreal. I was responsible for maintaining relationships and organizing activities by engaging with colleges and businesses.
@@ -44,7 +44,7 @@ const Miscellaneous = () => {
                     </div>
                     <div class="col">
                         <div class="card h-100 bg-transparent text-white border-white">
-                            <img src="https://lh3.googleusercontent.com/pw/ADCreHfXqeYxXM7jwnW3kH2H9BvCP2zPX8Ye5dCMYVlPfVmW8Vgq4ozOKQVhG2jDz7Xpw1FFJlTayXBk4CHALmL87EgXu5sTjt2v4cib6yXi3zH91KmdzTEXa4a6TxiamZCyLQ7zhLMf-aouRxYDsYh-_fFIXOUV5_ikGpO81Iuka7zDnZ5IEtIG6ozxouCjuVP5zqYFtia1ujl9Cf6kTN7CQhmTHYHm5lqBULQPmeaER5JNENlggctfc8wYKcfBkl4bVeQ-srihxfhedRz45_03ixNqF8P4mRE0fGye9gJLLtqLoGq13YK4REdZZjTtGwX8qxTH8of2RoHu-QL9k-KTx42-f-T7Nnf1tU3_jXEKsU2rx4ExLKlXJSNdk1A2Esp_2vWq1DokSinQSFtTWlUP2lle4YUUSWKme_94LQxkm_Fz7Dd_t1A7a-Lvk_N5DIXKuFwHrEAPei1r2qTXIu9LiAInm4_bFQ4-6TKlaKv3ORTzm3NMMLLLGNdL9GkWnFc7FIarK4PxGw0W62FRx-Ec1O5Q4x-3fe0UkmP3xQnxVTwBRXE-BduighX22k67wIShxMd52E6tezscXzCpGymWXJjfWSbaC5he9i1suuwrMli2z32k0YVPyMcug93XNd447OXT9jAAn2R5gDKxjTZrl1j6NxYZ5isnUOnYNlPKIC74397Krw_clLdNlYi8nuJNpH4u2rmWk3gBZNb78Pj3Ban0cPeiHBmLT0khSugkEIrLgnSYFT3ysw4xw8SCGGy7kqjNgUs6flEJNZlfjUXK9j1KJ8PAxD22JqQovYcozijCqIEvq_ywox6uLnL6cZr02Lk6jR2bpRZpZCY0fFerjA58cjI-I-QagMsRR0NVmLG3eXSafAKr6e2N7A_BugN6u4nGV-9JMlwrdJmD06yoAd4-K6c=w1284-h963-s-no?authuser=0" class="card-img-top"/>
+                            <img src="https://lh3.googleusercontent.com/pw/ADCreHfSDEz0E2PDK5zwX6yqdPlKspytFyXmFkjvGldBaNNL6PdnEZ-g1zL4eW_4ZNxz9bFqyVsofiVgSMaucW40QWIpco6LCA5wV87KuPcbcuYNtgJHu_NHlYRJ24fAp-Xg0-WIOOoLxUE5CWCRtSs1cK3D5w=w1190-h893-s-no?authuser=0" class="card-img-top"/>
                             <div class="card-body">
                             <h5 class="card-title">Other Leadership Involvments</h5>
                             <p class="card-text">
@@ -72,7 +72,7 @@ const Miscellaneous = () => {
                     <div class="col">
                         <div class="card h-100">
                         <img src="https://lh3.googleusercontent.com/pw/ADCreHduJcS744Aj46-JmR44UV4jaa3HZFkeG9gddDnRIW7OEyiBAXYVknxCULkDgTMYWSlAMLWyOPDrQO3glI8HY5C16r7FsaMNJ9j3cssuAyGvuNjdslZSpTrW9-sTKw_tGJLCoBuJlkkiU9xIS7U5KgXOPw=w1024-h683-s-no?authuser=0" class="card-img-top" alt="Piano"/>
-                        <img src="https://lh3.googleusercontent.com/fife/AK0iWDzq27T1HUIbyhLbyyZMjjWABYycFSfYUfW-PRvvNwdlZVDgXAnEtEI_NcNZa-QV-GlBFmEs-dlVXCWrQF5rMMWdka4j1sUGg-V9HkOq21TIzIrBIDGy6dP3IV0Hhggw_nqOsF9LT9BZC2PWp3PVxvjgf8wAvNpUK9WJmTo5Lll_S7tgSRbR9_uSsf09zwE7v0eisn8geNLyjYF38xqu3kNP9sfyJaPBR09WRbjtr_mITdX0dZmHyT6RGl_oP1Tkk007nKaqoSkQfzkw34crGYOVuMewv0NsB3cOwESxl9AGCsxh6KPhQNUVoAFMgAwl1koemdKSRpPwL3EB5Kldjpold8dyygTXjmoWUkGgyWX21ZRl9b-At6xpZyaFCrTA1VOyi5_-Gl3Li8dVYsoDh2_nhKV3Hf0rEl5ASeyVEIZJP7hdU93O-uzL_GmrmLF9NUDa3HRqV0NXKK6EO8rAM44Swnxcrp6paYGUUDhjEvlSC68XCPns8hXLrKHPPCnx2w_UKm53q2yCwPDj_mIpGewp66XNq3PnrCAXAcMSm-J439yWfKUYyuQLqHy2PQmr_ye8ox13hK6PX5ELxyuMZ5aVfsCL9XPUz5OUSL5MXRuA2hUabroO914URh20EifHKOPbxs57jcB_uLn0ptbUz23MDv-nWG0Ld_v4h25AZ4d2r8x-5-FTIWAorYMLwRNstTtoIlnbf_j4argmhtvkj7K3xfprXXxRaYID0-dH56AYCC3b5ox_PyZAYFcMzAFFTG7fB5ltvrXJsAJCsG3PJJcI2moB6xGj9QVx3Me72Alk8P1Z0ShIjKKzG2M6O42Q3WiS_KJJ1EFCXMMkYPaZSq8djXSe4p2yHzg9ISymwkKPCGsPP0r5kwD8cjG84I2DJ3Cypp7KyRObfSZyBKe8edHsS2ExmbhSW65qiDIjUtJ-5XNR6ZW6BT7UqMMgmPoTpciO21Iz_p5QPKIAu1VPmDBDxXTQ-L46OLxcvmN16R17fTqllZDLXDvqMoEIqlrj3RI-y2IOK7uWwjN7Dtmj06r_E6C_Bbj_CFn_j2DEY_3LUQEl3d65gp1ftQ1J08P65gTjZWIiMJm9kWXpKB_mAzQgVsyX-eGWbJGL-WBRPFpGHD9PneS7dIVQv_Ddmd5YqnxjcFhvWGxHZLxghR6jC7Ix2K0-EidMnD60SyIM4t0RP1bPNCdUWiCcWLaPJMJkvw6MgmTYQFuly8camPiySx3FZx_gH9tbsKptPfcYJ7RGpLr0E9yY99LmnF-LKXF1YBCHyivQ_xJLdpxuvzFnJIRkDOoKkjUX-34ADvCoJL4p-7NWJCix1zkoAaJ9MkacQ2MK6YuN_I01SO7QvXtFWeLCxc8P0VDwUeIrl689cTLjtB03kMENlMwBKeUwJKz03vyucUQPEgn3SF9o4os0AbJC4MdPhv2e7XZiIrg-3Sh56Chjf0UMjGEnVhc-NCpdp6igk5WukqFoi4DiAFOLt_A-4Ft5CgEtTg7NRkkKWK-BpI7SZU3CYggzUnFpIGd2_HFAgfNv-ewk2Ic2XqZE8WAyxqFtzSLcsef6acrredCyt0KzUYxBh8u7VwW9pS7eXF2eF5T_hfKQCOhyFzJf80Rr1GbKbZ5Gb30xPs9EK2Vb32ZwUvT-5ug3ua4VlL-0ANSE3XPaHL3ADbBeFkKD2ID6bk00z_yqYItixefun-NtwJh50Ig_fxCP6zxVukyEHmM=s913-w913-h477-s-no?authuser=0" class="card-img-top" alt="Piano"/>
+                        <img src="https://lh3.googleusercontent.com/pw/ADCreHdTMPDQ8b8aTiTEE2mxu-AwYoBV6s4haCNUZKPMzBRvMi0bACmLXYA6dAciDIbr0SPb_-uD7dQBhUpxidk-B30_3G8rSrTxaDqib2ulDpaELPKiynY3OTVp798hDbPBS546uFt1ZIcmpR7ETMf5ylAJXw=w913-h477-s-no?authuser=0" class="card-img-top" alt="Piano"/>
                         <div class="card-body">
                             <h5 class="card-title">Piano</h5>
                             <p class="card-text">
@@ -84,10 +84,13 @@ const Miscellaneous = () => {
                     </div>
                     <div class="col">
                         <div class="card h-100">
-                        <img src="https://lh3.googleusercontent.com/pw/ADCreHduJcS744Aj46-JmR44UV4jaa3HZFkeG9gddDnRIW7OEyiBAXYVknxCULkDgTMYWSlAMLWyOPDrQO3glI8HY5C16r7FsaMNJ9j3cssuAyGvuNjdslZSpTrW9-sTKw_tGJLCoBuJlkkiU9xIS7U5KgXOPw=w1024-h683-s-no?authuser=0" class="card-img-top" alt="Other Extracurriclars / Volunteering"/>
+                        <img src="https://lh3.googleusercontent.com/pw/ADCreHfokn3ArOhLdEBttZMAGbcR_g5-X1g4czI0MPExsrvfRKO8MXmaGNQcnD1yxSYIRIHTf3LzHrl8-sauSVFfqnXjWJWR_ky-mr9GA9Gmog2nrTgME8AdVRzgu_g3y6M66iAwhxwRYyRGXCzZtSWjYmkc5w=w1190-h893-s-no?authuser=0" class="card-img-top" alt="Other Extracurriclars / Volunteering"/>
                         <div class="card-body">
                             <h5 class="card-title">Other Extracurriculars / Volunteering </h5>
-                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
+                            <p class="card-text">Whenever I have the time, I like to do some volunteering work within my community. I am part
+                            of the Buddhist Light International Association - Young Adult Division, where I participate in organizing activities and events for 
+                            children or adults at the Temple. Otherwise, I enjoy helping in different events such as Otakuthons,
+                            Cadets or even at school. </p>
                         </div>
                         </div>
                     </div>

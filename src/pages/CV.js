@@ -72,7 +72,7 @@ export default function BasicTimeline() {
                     <h1 className="font-serif text-6xl text-white text-center underline"> <br /> Curriculum Vitae </h1>
                     <div className="mt-10"><center><Buttonf buttonText="Download CV PDF" onClick={() => { const link = document.createElement("a"); link.href = "C:\Users\Kevin\my-app\CV.pdf"; link.download = "C:\Users\Kevin\my-app\CV.pdf"; link.click(); }} /></center></div>
                 </div>
-                    <center><iframe className="mt-10" src="https://drive.google.com/file/d/1alzPGkVhRDPxY6tLVKsFPkquW2OvCZot/preview" width="825" height="1050" allow="autoplay"></iframe></center>
+                    <center><iframe className="mt-10" src="https://drive.google.com/file/d/1XqrgbQGZlPX5_UeoP4J6ANkeuGtDi3fk/preview" width="825" height="1050" allow="autoplay"></iframe></center>
                     <div className="mt-10 mb-10"><center><Buttonf buttonText="Download CV"  /></center></div>
             </div>
             <Footer/>
