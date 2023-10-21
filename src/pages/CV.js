@@ -71,12 +71,12 @@ export default function BasicTimeline() {
                 <div>
                     <h1 className="font-serif text-6xl text-white text-center underline"> <br /> Curriculum Vitae </h1>
                     <div className="mt-10"><center>
-                      <Buttonf buttonText="VIEW CV PDF" onClick={() => window.open('https://drive.google.com/file/d/1RtqNUAfSudUntoMEnAshzldphs4IA8oj/preview', '_blank')} />
+                      <Buttonf buttonText="VIEW CV PDF" onClick={() => window.open('https://drive.google.com/file/d/1jCVjQkVA7I-9LtPHYu9gzg7pT0uy7FYI/preview', '_blank')} />
                       </center></div>
                 </div>
-                    <center><iframe className="mt-10" src="https://drive.google.com/file/d/1RtqNUAfSudUntoMEnAshzldphs4IA8oj/preview" width="825" height="1050" allow="autoplay"></iframe></center>
+                    <center><iframe className="mt-10" src="https://drive.google.com/file/d/1jCVjQkVA7I-9LtPHYu9gzg7pT0uy7FYI/preview" width="825" height="1050" allow="autoplay"></iframe></center>
                     <div className="mt-10 mb-10"><center>
-                    <Buttonf buttonText="VIEW CV PDF" onClick={() => window.open('https://drive.google.com/file/d/1RtqNUAfSudUntoMEnAshzldphs4IA8oj/preview', '_blank')} />
+                    <Buttonf buttonText="VIEW CV PDF" onClick={() => window.open('https://drive.google.com/file/d/1jCVjQkVA7I-9LtPHYu9gzg7pT0uy7FYI/preview', '_blank')} />
                       </center></div>
             </div>
             <Footer/>
