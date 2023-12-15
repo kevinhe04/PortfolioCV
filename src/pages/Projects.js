@@ -7,9 +7,9 @@ const Projects = () => {
     return (
         <div className="bg-gradient-to-r from-blue-900 to to-black">
             <Navigation />
-                <div className="">
-                <h1 className="text-center mt-10 text-6xl text-indigo-400 underline decoration-white"> Projects </h1>
-                <div class="row row-cols-1 row-cols-md-3 g-4 p-20">
+            <h1 className="text-center mt-10 text-3xl md:text-6xl text-indigo-400 underline decoration-white">Projects</h1>
+            <div className="container mx-auto p-4">
+            <div className="row row-cols-1 row-cols-md-3 g-4">
                     <div class="col">
                         <div class="card h-100">
                         <img src="https://lh3.googleusercontent.com/pw/ADCreHe9GqDMRaer9bnv-X47ECUdtgeb7y8Y6lEHccIEyqOtdJYeLC_zZXBZkGLI7vTov2DMi742v6Hz5K7YVHBDJ0yXx5aT0E4SjKSrmdm-TKRdv-4HYo0CeXDODLs92fXW5eK4a8E_WkHPTjcFn-ITC_LfNg=w1752-h893-s-no?authuser=0" class="card-img-top" alt="Ukulele Website"/>
@@ -42,6 +42,16 @@ const Projects = () => {
                         </div>
                     </div>
                     </div>
+                </div>
+                <div className="bg-gradient-to-r from-blue-900 to to-black">
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
                 </div>
             <Footer/>
         </div>

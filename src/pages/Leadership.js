@@ -6,10 +6,11 @@ const Miscellaneous = () => {
     return (
         <div className="bg-gradient-to-r from-blue-900 to to-black">
             <Navigation />
-                <h1 className="text-center mt-10 text-6xl text-indigo-400 underline decoration-white"> Leadership </h1>
-                <div class="row row-cols-1 row-cols-md-2 g-4 p-20">
+            <h1 className="text-center mt-10 text-3xl md:text-6xl text-indigo-400 underline decoration-white">Leadership</h1>
+            <div className="container mx-auto p-4">
+                <div className="row row-cols-1 row-cols-md-2 g-4">
                     <div class="col">
-                        <div class="card h-100 bg-transparent text-white border-white">
+                        <div className="card h-100 bg-transparent text-white border-white">
                         <img src="https://lh3.googleusercontent.com/pw/ADCreHc9SmqAFtOO97GdpeuGGe70LGlNFD1SEqi2mW9XoSgsO3ogeoHdJ4X1qvKJvsSOfB8sR1Is1xRyPZjAHqaOK6hUsvZuh1itHTurTEZMuQkfwdkHdfKc=w2400" class="card-img-top"/>
                         <div class="card-body">
                             <h5 class="card-title">Royal Canadian Air Cadets</h5>
@@ -56,8 +57,8 @@ const Miscellaneous = () => {
                     </div>
                 </div>
                 <div className="">
-                <h1 className="text-center mt-10 text-5xl text-indigo-400 underline decoration-white"> Extracurriculars </h1>
-                <div class="row row-cols-1 row-cols-md-3 g-4 p-20">
+                <h1 className="text-center mt-10 text-3xl md:text-5xl text-indigo-400 underline decoration-white">Extracurriculars</h1>
+                <div className="row row-cols-1 row-cols-md-3 g-4">
                     <div class="col">
                         <div class="card h-100">
                         <img src="https://lh3.googleusercontent.com/pw/ADCreHeVEUnKx7vPICKyrxFqpfMh0oSKtjzO4qZSdMr2FgjfEVu9maf86r4rofjV5Lp2IsxiLOuRjMtx0YFgpYCRSdr-FSRoGtAuVs0c2uYXrWOdjrky5fa-IWbdOSSB0BsvHMGjhJ3yQx9Me4mBXJJ5YlAfCw=w770-h963-s-no?authuser=0" class="card-img-top" alt="Volleyball"/>
@@ -96,7 +97,8 @@ const Miscellaneous = () => {
                     </div>
                     </div>
                 </div>
-            <Footer/>
+            </div>
+        <Footer/>
         </div>
     );
 };

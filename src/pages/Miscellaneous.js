@@ -1,9 +1,24 @@
-import Navigation from "../Components/navbar";
-import Footer from "../Components/footer";
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
+import Navigation from "../Components/navbar"; // Adjust the path as needed
+import Footer from "../Components/footer"; // Adjust the path as needed
 
 const YouTubeCarousel = ({ videoIds }) => {
+  // Define getIframeWidth function before using it
+  const getIframeWidth = () => {
+    return window.innerWidth < 768 ? window.innerWidth * 0.8 : 660;
+  };
+
   const [currentIndex, setCurrentIndex] = useState(0);
+  const [iframeWidth, setIframeWidth] = useState(getIframeWidth());
+
+  useEffect(() => {
+    const handleResize = () => {
+      setIframeWidth(getIframeWidth());
+    };
+
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
+  }, []);
 
   const nextSlide = () => {
     setCurrentIndex((currentIndex + 1) % videoIds.length);
@@ -19,13 +34,13 @@ const YouTubeCarousel = ({ videoIds }) => {
     <iframe
       key={videoId}
       title={`youtube-iframe-${videoId}`}
-      width={index === currentIndex ? 660 : 280}
+      width={index === currentIndex ? iframeWidth : 280}
       height="315"
       src={embedUrl(videoId)}
       allowFullScreen
       className="rounded-lg shadow-lg transition-transform transform-gpu duration-500"
       style={{
-        transform: `translateX(${(index - currentIndex) * 100}px)`, // Adjust the width here
+        transform: `translateX(${(index - currentIndex) * 100}px)`,
       }}
     />
   ));
@@ -38,7 +53,7 @@ const YouTubeCarousel = ({ videoIds }) => {
       >
         Previous
       </button>
-      <div className="flex">
+      <div className="flex overflow-hidden">
         {videosToDisplay}
       </div>
       <button
@@ -71,16 +86,16 @@ const App = () => {
 
   return (
     <div className="bg-gradient-to-r from-blue-900 to to-black">
-        <Navigation/>
-        <h1 className="text-center text-white mt-20">Some Videos and Projects You Can Explore and Enjoy</h1>
-        <div className="mt-20">
-            <YouTubeCarousel videoIds={videoIds1} />
-        </div>
-        <h1 className="text-center text-white mt-20">Music !</h1>
-        <div className="mt-20">
-            <YouTubeCarousel videoIds={videoIds2} />
-        </div>
-        <Footer/>
+      <Navigation />
+      <h1 className="text-center text-white mt-20">Some Videos and Projects You Can Explore and Enjoy</h1>
+      <div className="mt-20">
+        <YouTubeCarousel videoIds={videoIds1} />
+      </div>
+      <h1 className="text-center text-white mt-20">Music!</h1>
+      <div className="mt-20">
+        <YouTubeCarousel videoIds={videoIds2} />
+      </div>
+      <Footer />
     </div>
   );
 };

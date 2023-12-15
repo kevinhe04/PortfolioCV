@@ -82,7 +82,7 @@ export default function NoOppositeContent() {
         </TimelineSeparator>
         <TimelineContent> 
         <div className="p-4 bg-white rounded-lg shadow-md">
-          <h2 className="font-bold text-xl mb-2">DES International Baccalaureate</h2>
+          <h2 className="font-bold text-xl mb-2">DES International Baccalaureate (2016-2021) </h2>
           <p className="text-gray-800">Collège Jean-de-Brébeuf, Montreal, Quebec</p>
           <p className="text-gray-600 mt-2">
             Involvements: 
