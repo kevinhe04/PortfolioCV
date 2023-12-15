@@ -85,7 +85,7 @@ const Miscellaneous = () => {
                     </div>
                     <div class="col">
                         <div class="card h-100">
-                        <img src="https://lh3.googleusercontent.com/pw/ADCreHfokn3ArOhLdEBttZMAGbcR_g5-X1g4czI0MPExsrvfRKO8MXmaGNQcnD1yxSYIRIHTf3LzHrl8-sauSVFfqnXjWJWR_ky-mr9GA9Gmog2nrTgME8AdVRzgu_g3y6M66iAwhxwRYyRGXCzZtSWjYmkc5w=w1190-h893-s-no?authuser=0" class="card-img-top" alt="Other Extracurriclars / Volunteering"/>
+                        <img src="public/Images/patnais.jpg"/>
                         <div class="card-body">
                             <h5 class="card-title">Other Extracurriculars / Volunteering </h5>
                             <p class="card-text">Whenever I have the time, I like to do some volunteering work within my community. I am part
