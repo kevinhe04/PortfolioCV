@@ -77,3 +77,90 @@
   justify-content: center;
 }
 /*-------------------------------------------------------- CV  ----------------------------------*/
+.iframe-container {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+}
+
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+@media (max-width: 600px) {
+  * {
+    margin: 0;
+  }
+  .BigText {
+    font-size: 300%; /* Adjusted for mobile */
+    font-weight: 400%;
+    color: white;
+    margin-left: 10%; /* Adjusted for mobile */
+  }
+  .App-header {
+    background-image: url('https://lh3.googleusercontent.com/pw/ADCreHfLAeWhl2bmfkpc157xD1kdjxBe0gxDpXNKan2eoBQEB0_xqu1YP02vn6gy6C-BVMaqrsgqEIr2eyJLLP1GQwbCo_1AXQyehR5OwjiYM-pcaZnKo8E6Uuo7cSLrby2CHqzi_k40rVdwoiGcMHxmdyTTHg=w1190-h893-s-no?authuser=0');
+    background-size: cover;
+    background-position: 50% 70%;
+    height: 100vh;
+    color: white;
+    margin: 0;
+  }
+  .App-header h1 {
+    margin-left: 4px;
+    font-weight: 200%;
+    font-size: 30px; /* Adjusted for mobile */
+    transform: translateY(50px); /* Adjusted for mobile */
+  }
+  .bouton {
+    margin: 100px auto 0 auto; /* Top, Right, Bottom, Left */
+    font-weight: 200%;
+    font-size: 30px; /* Adjusted for mobile */
+    display: block; /* Maintains block level */
+}
+  .LetterHeader {
+    background-image: url('https://lh3.googleusercontent.com/pw/ADCreHerLI7Mmtn_XJPTj5RxE0t2ceaxickBSCyF7pEztq9gCKSyaRHnuqFzMGC67Dv5xVWn_D3LCZACHhLz16dRiuwqPdsS1IX3ZjoMboUmuoy8TGfE91JsHd1DgP2Kv3hTFS7PX5l211QMnJHZrAt_cBw66Q=w1340-h893-s-no?authuser=0');
+    background-size: cover;
+    min-height: 50vh; /* Adjusted for mobile */
+    background-position: 20% 35%;
+  }
+  .row {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  .WhoKevinHe2 {
+    flex-basis: 100%; /* Adjusted for mobile */
+  }
+  .container {
+    padding: 15px 5%;
+  }
+  .page2header {
+    font-size: 40px; /* Adjusted for mobile */
+    font-weight: 200;
+    color: white;
+    position: relative;
+    left: 10%; /* Adjusted for mobile */
+    top: 5%;
+  }
+  .intro {
+    background-color: aliceblue;
+    padding: 20px 5%; /* Adjusted for mobile */
+    margin: 2%;
+  }
+  .videocv {
+    background-image: url('https://lh3.googleusercontent.com/pw/ADCreHchgr-Tqs2uh0M3XDTIQoWz_oH3iVtpbAolBlvZtQj36AY1-qkH_kTHPpxY7nK0vjEQ_lXvnS0glb5ug0fBSXoaricPApLoTIjmThrVnh00ejg-n8YOj_ke4UZizIFnM3nh6RPnNS5Ne2oMuLMK62H9dw=w1190-h893-s-no?authuser=0');
+    background-size: cover;
+    width: 100%;
+    height: 50vh; /* Adjusted for mobile */
+    background-position: center;
+    justify-content: center;
+  }
+}
