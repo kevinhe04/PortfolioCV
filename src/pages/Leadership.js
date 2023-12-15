@@ -11,7 +11,7 @@ const Miscellaneous = () => {
                 <div className="row row-cols-1 row-cols-md-2 g-4">
                     <div class="col">
                         <div className="card h-100 bg-transparent text-white border-white">
-                        <img src="https://lh3.googleusercontent.com/pw/ADCreHc9SmqAFtOO97GdpeuGGe70LGlNFD1SEqi2mW9XoSgsO3ogeoHdJ4X1qvKJvsSOfB8sR1Is1xRyPZjAHqaOK6hUsvZuh1itHTurTEZMuQkfwdkHdfKc=w2400" class="card-img-top"/>
+                        <img src="/Images/Band.JPG" class="card-img-top"/>
                         <div class="card-body">
                             <h5 class="card-title">Royal Canadian Air Cadets</h5>
                             <p class="card-text">
@@ -22,7 +22,7 @@ const Miscellaneous = () => {
                     </div>
                     <div class="col">
                         <div class="card h-100 bg-transparent text-white border-white">
-                        <img src="https://lh3.googleusercontent.com/pw/ADCreHeYfQ3ptRLKaTagZzjE9Y2jcgnRhGoQPvVffEQiXM_8BMOHDq8Vsko3fCMCEa4jQY5ad3DbhVtx4uUbbXvFRaizpkqtbddgqtva5tZslTHmS7Cmg1nMslrhp-06IVKZ_WIF1oJzx9SqpiTLre0ILFeH1A=w1190-h893-s-no?authuser=0" class="card-img-top"/>
+                        <img src="/Images/graduation.jpg" class="card-img-top"/>
                         <div class="card-body">
                             <h5 class="card-title">Club/Committee Leader</h5>
                             <p class="card-text">
@@ -33,7 +33,7 @@ const Miscellaneous = () => {
                     </div>
                     <div class="col">
                         <div class="card h-100 bg-transparent text-white border-white">
-                        <img src="https://lh3.googleusercontent.com/pw/ADCreHfbpCtAxRUTOFnZ4m1Nem60-NChczBww6lv6lDKOVLLszjycQBCirtpBpUJWopzJHmc0L1KKr4dK0yWF0aJiZQ5Axq1PDqELikjew6xdwXb0WqMKbTWxSSc4PwY-uG92wT3o_bMTTcWt0gOXsRIGZogGw=w1117-h853-s-no?authuser=0" class="card-img-top"/>
+                        <img src="/Images/sujac.JPG" class="card-img-top"/>
                         <div class="card-body">
                             <h5 class="card-title">Student Government</h5>
                             <p class="card-text">In the academic year 2022-2023, as Vice-President of External Affairs at John Abbott College, I was an executive member of CASAQ, an association comprising representatives from the five anglophone CEGEPs in Montreal (John Abbott College, Marianopolis, Dawson, Vanier, and Champlain Regional College). The role gave me the opportunity to represent not only the voice of my school, but the voice of all students attending anglophone institutions in Montreal. I was responsible for maintaining relationships and organizing activities by engaging with colleges and businesses.
@@ -45,7 +45,7 @@ const Miscellaneous = () => {
                     </div>
                     <div class="col">
                         <div class="card h-100 bg-transparent text-white border-white">
-                            <img src="https://lh3.googleusercontent.com/pw/ADCreHfSDEz0E2PDK5zwX6yqdPlKspytFyXmFkjvGldBaNNL6PdnEZ-g1zL4eW_4ZNxz9bFqyVsofiVgSMaucW40QWIpco6LCA5wV87KuPcbcuYNtgJHu_NHlYRJ24fAp-Xg0-WIOOoLxUE5CWCRtSs1cK3D5w=w1190-h893-s-no?authuser=0" class="card-img-top"/>
+                            <img src="/Images/patnais.jpg" class="card-img-top"/>
                             <div class="card-body">
                             <h5 class="card-title">Other Leadership Involvments</h5>
                             <p class="card-text">
@@ -61,7 +61,7 @@ const Miscellaneous = () => {
                 <div className="row row-cols-1 row-cols-md-3 g-4">
                     <div class="col">
                         <div class="card h-100">
-                        <img src="https://lh3.googleusercontent.com/pw/ADCreHeVEUnKx7vPICKyrxFqpfMh0oSKtjzO4qZSdMr2FgjfEVu9maf86r4rofjV5Lp2IsxiLOuRjMtx0YFgpYCRSdr-FSRoGtAuVs0c2uYXrWOdjrky5fa-IWbdOSSB0BsvHMGjhJ3yQx9Me4mBXJJ5YlAfCw=w770-h963-s-no?authuser=0" class="card-img-top" alt="Volleyball"/>
+                        <img src="/Images/volley5.JPG" class="card-img-top" alt="Volleyball"/>
                         <div class="card-body">
                             <h5 class="card-title">Volleyball</h5>
                             <p class="card-text">
@@ -72,8 +72,8 @@ const Miscellaneous = () => {
                     </div>
                     <div class="col">
                         <div class="card h-100">
-                        <img src="https://lh3.googleusercontent.com/pw/ADCreHduJcS744Aj46-JmR44UV4jaa3HZFkeG9gddDnRIW7OEyiBAXYVknxCULkDgTMYWSlAMLWyOPDrQO3glI8HY5C16r7FsaMNJ9j3cssuAyGvuNjdslZSpTrW9-sTKw_tGJLCoBuJlkkiU9xIS7U5KgXOPw=w1024-h683-s-no?authuser=0" class="card-img-top" alt="Piano"/>
-                        <img src="https://lh3.googleusercontent.com/pw/ADCreHdTMPDQ8b8aTiTEE2mxu-AwYoBV6s4haCNUZKPMzBRvMi0bACmLXYA6dAciDIbr0SPb_-uD7dQBhUpxidk-B30_3G8rSrTxaDqib2ulDpaELPKiynY3OTVp798hDbPBS546uFt1ZIcmpR7ETMf5ylAJXw=w913-h477-s-no?authuser=0" class="card-img-top" alt="Piano"/>
+                        <img src="/Images/piano.jpg" class="card-img-top" alt="Piano"/>
+                        <img src="/Images/luca.png" class="card-img-top" alt="Piano"/>
                         <div class="card-body">
                             <h5 class="card-title">Piano</h5>
                             <p class="card-text">
@@ -85,7 +85,7 @@ const Miscellaneous = () => {
                     </div>
                     <div class="col">
                         <div class="card h-100">
-                        <img src="public/Images/patnais.jpg"/>
+                        <img src="/Images/fgs.JPG" alt="Description" />
                         <div class="card-body">
                             <h5 class="card-title">Other Extracurriculars / Volunteering </h5>
                             <p class="card-text">Whenever I have the time, I like to do some volunteering work within my community. I am part

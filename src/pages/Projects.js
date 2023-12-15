@@ -12,7 +12,7 @@ const Projects = () => {
             <div className="row row-cols-1 row-cols-md-3 g-4">
                     <div class="col">
                         <div class="card h-100">
-                        <img src="https://lh3.googleusercontent.com/pw/ADCreHe9GqDMRaer9bnv-X47ECUdtgeb7y8Y6lEHccIEyqOtdJYeLC_zZXBZkGLI7vTov2DMi742v6Hz5K7YVHBDJ0yXx5aT0E4SjKSrmdm-TKRdv-4HYo0CeXDODLs92fXW5eK4a8E_WkHPTjcFn-ITC_LfNg=w1752-h893-s-no?authuser=0" class="card-img-top" alt="Ukulele Website"/>
+                        <img src="/Images/Ukulele.JPG" class="card-img-top" alt="Ukulele Website"/>
                         <div class="card-body">
                             <h5 class="card-title"> Build Your Own Ukulele</h5>
                             <p class="card-text">
@@ -25,7 +25,7 @@ const Projects = () => {
                     </div>
                     <div class="col">
                         <div class="card h-100">
-                        <img src="https://lh3.googleusercontent.com/pw/ADCreHct5eD-m8ZFnFZy5RjGO0_l1AlrI4qhOYsqvHCDn14c92vRL49BqbBI1jq7aPU95F8mnLwIjkxqkwzH_WyAseouvqowAxvhljB8xowe_6fhw1OHSGQBq3t15C1wpkkSiGOyZHSjRpuBxKwrrZuVsrAbUw=w1755-h893-s-no?authuser=0" class="card-img-top" alt="Web Portfolio"/>
+                        <img src="/Images/Web Portfolio.JPG" class="card-img-top" alt="Web Portfolio"/>
                         <div class="card-body">
                             <h5 class="card-title">Web Portfolio</h5>
                             <p class="card-text">
