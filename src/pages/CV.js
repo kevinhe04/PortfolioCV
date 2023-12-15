@@ -117,19 +117,19 @@ export default function NoOppositeContent() {
           <h1 className="font-serif text-center text-4xl md:text-6xl text-white underline mb-10">Curriculum Vitae</h1>
           
           <div className="text-center">
-            <Buttonf buttonText="VIEW CV PDF" onClick={() => window.open('https://drive.google.com/file/d/1jCVjQkVA7I-9LtPHYu9gzg7pT0uy7FYI/preview', '_blank')} />
+            <Buttonf buttonText="VIEW CV PDF" onClick={() => window.open('https://drive.google.com/file/d/162JNuzj1ejwAUJx2IyfKgkQoGnoMKwU7/preview', '_blank')} />
           </div>
 
           <div className="iframe-container my-10">
             <iframe 
               className="responsive-iframe" 
-              src="https://drive.google.com/file/d/1jCVjQkVA7I-9LtPHYu9gzg7pT0uy7FYI/preview"
+              src="https://drive.google.com/file/d/162JNuzj1ejwAUJx2IyfKgkQoGnoMKwU7/preview"
               allow="autoplay">
             </iframe>
           </div>
 
           <div className="text-center mb-10">
-            <Buttonf buttonText="VIEW CV PDF" onClick={() => window.open('https://drive.google.com/file/d/1jCVjQkVA7I-9LtPHYu9gzg7pT0uy7FYI/preview', '_blank')} />
+            <Buttonf buttonText="VIEW CV PDF" onClick={() => window.open('https://drive.google.com/file/d/162JNuzj1ejwAUJx2IyfKgkQoGnoMKwU7/preview', '_blank')} />
           </div>
         </div>
 
