@@ -27,16 +27,16 @@ export default function NoOppositeContent() {
           <TimelineConnector />
         </TimelineSeparator>
         <TimelineContent>
-        <div className="p-4 bg-white rounded-lg shadow-md">
+        <div className="p-4 bg-white rounded-lg shadow-md font-serif">
                 <h2 className="font-bold text-xl mb-2">Bachelor's in Software Engineering Co-op (2023-2027)</h2>
-                <p className="text-gray-800">McGill University, Montreal, Quebec</p>
-                <p className="text-gray-600 mt-2">Involvments: 
+                <p><b>McGill University, Montreal, Quebec</b></p>
+                <p className="mt-2"> <b>Involvments: </b>
                   <ul>
                     <li>McGill Men's Volleyball Club</li>
                     <li>GameDev Club</li>
                   </ul>
                 </p>
-                <p className="text-gray-600 mt-2">Awards: 
+                <p className="mt-2"> <b> Awards:  </b>
                   <ul>
                     <li>McGill Entrance Scholarship</li>
                     <li>McGill Major Entrance Scholarship</li>
@@ -52,11 +52,11 @@ export default function NoOppositeContent() {
           <TimelineConnector />
         </TimelineSeparator>
         <TimelineContent>
-        <div className="p-4 bg-white rounded-lg shadow-md">
+        <div className="p-4 bg-white rounded-lg shadow-md font-serif">
             <h2 className="font-bold text-xl mb-2">DEC Arts and Sciences (2021-2023)</h2>
-            <p className="text-gray-800">John Abbott College, Montreal, Quebec</p>
-            <p className="text-gray-600 mt-2">
-              Involvments: 
+            <p><b>John Abbott College, Montreal, Quebec</b></p>
+            <p className="mt-2">
+              <b>Involvments: </b>
               <ul>
                 <li>Student Union of John Abbott College (SUJAC), Vice-President of External Affairs 2022-2023</li>
                 <li>Coalition of Anglophone CEGEPS Representative (COAC) 2022-2023</li>
@@ -65,8 +65,8 @@ export default function NoOppositeContent() {
                 <li>Men's Volleyball Varsity Team 2021-2023</li>
               </ul>
             </p>
-            <p className="text-gray-600 mt-2">
-              Awards and Recognitions: 
+            <p className="mt-2">
+              <b> Awards and Recognitions: </b>
               <ul>
                 <li>Highest Academic Achievement Award (Best Overall R-Score in Arts and Sciences Program)</li>
                 <li>Service and Leadership Award (2023 as SUJAC VP-External, 2022 as SUJAC Secretary)</li>
@@ -81,11 +81,11 @@ export default function NoOppositeContent() {
           <TimelineConnector />
         </TimelineSeparator>
         <TimelineContent> 
-        <div className="p-4 bg-white rounded-lg shadow-md">
+        <div className="p-4 bg-white rounded-lg shadow-md font-serif">
           <h2 className="font-bold text-xl mb-2">DES International Baccalaureate (2016-2021) </h2>
-          <p className="text-gray-800">Collège Jean-de-Brébeuf, Montreal, Quebec</p>
-          <p className="text-gray-600 mt-2">
-            Involvements: 
+          <p><b>Collège Jean-de-Brébeuf, Montreal, Quebec</b></p>
+          <p className="mt-2">
+            <b>Involvements: </b>
             <ul>
               <li>Student Council Vice-President 2020-2021</li>
               <li>Amnesty International Executive Member 2020-2021</li>
@@ -98,8 +98,8 @@ export default function NoOppositeContent() {
               <li>Secondaire en Spectacle 2018-2020</li>
             </ul>
           </p>
-          <p className="text-gray-600 mt-2">
-            Awards: 
+          <p className="mt-2">
+            <b>Awards: </b>
             <ul>
               <li>Civility Scholarship 2021</li>
               <li>Jean-Bernard Jouthe Scholarship Nomination (destined to a Student-Athlete pursuing their studies at Collège Jean-de-Brébeuf) 2021</li>

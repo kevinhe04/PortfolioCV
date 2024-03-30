@@ -91,7 +91,7 @@ const App = () => {
       <div className="mt-20">
         <YouTubeCarousel videoIds={videoIds1} />
       </div>
-      <h1 className="text-center text-white mt-20">Music!</h1>
+      <h1 className="text-center text-white mt-20">Music !</h1>
       <div className="mt-20">
         <YouTubeCarousel videoIds={videoIds2} />
       </div>
