@@ -87,7 +87,7 @@ const App = () => {
   return (
     <div className="bg-gradient-to-r from-blue-900 to to-black">
       <Navigation />
-      <h1 className="text-center text-white mt-20">Some Videos and Projects You Can Explore and Enjoy</h1>
+      <h1 className="text-center text-white mt-20">Enjoy !</h1>
       <div className="mt-20">
         <YouTubeCarousel videoIds={videoIds1} />
       </div>

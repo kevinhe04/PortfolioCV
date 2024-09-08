@@ -9,9 +9,6 @@ const About = () => {
         <div>
             <Navigation />
             <header className="App-header">
-                    <h1>
-                        Hello, I am Kevin He.
-                    </h1>
                     <div className="bouton">
                     <Link to="/CV">
                         <Buttonf buttonText="EXPLORE CV" />

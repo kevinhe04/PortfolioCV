@@ -57,7 +57,7 @@ const Miscellaneous = () => {
                     </div>
                 </div>
                 <div className="">
-                <h1 className="text-center mt-10 text-3xl md:text-5xl text-indigo-400 underline decoration-white">Extracurriculars</h1>
+                <h1 className="text-center mt-12 mb-6 text-3xl md:text-5xl text-indigo-400 underline decoration-white">Extracurriculars</h1>
                 <div className="row row-cols-1 row-cols-md-3 g-4">
                     <div class="col">
                         <div class="card h-100">

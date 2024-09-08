@@ -7,7 +7,36 @@ const Projects = () => {
     return (
         <div className="bg-gradient-to-r from-blue-900 to to-black">
             <Navigation />
-            <h1 className="text-center mt-10 text-3xl md:text-6xl text-indigo-400 underline decoration-white">Projects</h1>
+            <h1 className="text-center mt-10 text-3xl md:text-6xl text-white">Experience</h1>
+            <div className="container mx-auto p-4">
+            <div className="row row-cols-1 row-cols-md-3 g-4">
+                    <div class="col">
+                        <div class="card h-100">
+                        <img src="/Images/cheri.png" class="card-img-top" alt="Ukulele Website"/>
+                        <div class="card-body">
+                            <h5 class="card-title"> Chéri Web Developer</h5>
+                            <p class="card-text">
+                            Developed a website in React.js for a friend's clothing brand named Chéri, based in Montreal. The website helped reach over $10,000 in sales within the first week of launch.
+                            </p>
+                            <Buttonf buttonText="CHECK WEBSITE" onClick={() => window.open('https://kevinhe04.github.io/Arts-and-Science-IA-Project', '_blank')} />
+                        </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card h-100">
+                        <img src="" class="card-img-top" alt="Ukulele Website"/>
+                        <div class="card-body">
+                            <h5 class="card-title"> Tedy Web Developer</h5>
+                            <p class="card-text">
+                            Coded in TypeScript and JavaScript under the direct supervision of two senior developers to develop the Tedy website.
+                            </p>
+                            <Buttonf buttonText="CHECK WEBSITE" onClick={() => window.open('https://kevinhe04.github.io/Arts-and-Science-IA-Project', '_blank')} />
+                        </div>
+                        </div>
+                    </div>
+            </div>
+            </div>
+            <h1 className="text-center mt-10 text-3xl md:text-6xl text-white mt-20 mb-20">Personal Projects</h1>
             <div className="container mx-auto p-4">
             <div className="row row-cols-1 row-cols-md-3 g-4">
                     <div class="col">
