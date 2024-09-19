@@ -1,7 +1,7 @@
-*{
-  margin: 0
+* {
+  margin: 0;
 }
-.BigText{
+.BigText {
   font-size: 900%;
   font-weight: 400%;
   color: white;
@@ -13,13 +13,13 @@
   background-position: 50% 70%;
   height: 100vh;
   color: white;
-  margin:0;
+  margin: 0;
 }
 .App-header h1 {
   margin-left: 200px;
   font-weight: 200%;
   font-size: 100px;
-  transform: translateY(100px)
+  transform: translateY(100px);
 }
 .bouton {
   margin: 0;
@@ -27,48 +27,47 @@
   font-weight: 200%;
   font-size: 100px;
   margin-top: 70px;
-  display:block;
-  display:inline-block;
- 
+  display: block;
+  display: inline-block;
 }
-.LetterHeader{
+.LetterHeader {
   background-image: url("../public/Images/volley.jpg");
   background-size: cover;
   min-height: 70vh;
   background-position: 20% 35%;
 }
-.row{
+.row {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
 }
-.WhoKevinHe1{
+.WhoKevinHe1 {
   flex-basis: 48%;
   background-image: url("../public/Images/piano.jpg");
   background-size: cover;
   border-radius: 15px;
 }
-.WhoKevinHe2{
+.WhoKevinHe2 {
   flex-basis: 50%;
 }
-.container{
+.container {
   padding: 15px 5%;
 }
 /*-------------------------------------------------------- Introduction Letter  ----------------------------------*/
-.page2header{
+.page2header {
   font-size: 80px;
   font-weight: 200;
   color: white;
   position: relative;
   left: 57%;
-  top: 9%
+  top: 9%;
 }
-.intro{
+.intro {
   background-color: aliceblue;
   padding: 20px 10%;
   margin: 2%;
 }
-.videocv{
+.videocv {
   background-image: url("../public/Images/waterpic.jpg");
   background-size: cover;
   width: 100%;
@@ -106,7 +105,7 @@
     margin-left: 10%; /* Adjusted for mobile */
   }
   .App-header {
-    background-image: url('../public/Images/waterpic.jpg');
+    background-image: url("../public/Images/waterpic.jpg");
     background-size: cover;
     background-position: 50% 70%;
     height: 100vh;
@@ -124,9 +123,9 @@
     font-weight: 200%;
     font-size: 30px; /* Adjusted for mobile */
     display: block; /* Maintains block level */
-}
+  }
   .LetterHeader {
-    background-image: url('../public/Images/volley.jpg');
+    background-image: url("../public/Images/volley.jpg");
     background-size: cover;
     min-height: 50vh; /* Adjusted for mobile */
     background-position: 20% 35%;
@@ -156,7 +155,7 @@
     margin: 2%;
   }
   .videocv {
-    background-image: url('../public/Images/waterpic.jpg');
+    background-image: url("../public/Images/waterpic.jpg");
     background-size: cover;
     width: 100%;
     height: 50vh; /* Adjusted for mobile */
